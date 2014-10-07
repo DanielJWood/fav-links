@@ -26,3 +26,14 @@ Here is your featured link
 ### ETC
 
 When the dog bites, when the bee stings when I'm feeling sad, I simply remember my favorite [links](http://www.omfgdogs.com) and then I don't feel so bad.
+
+### Ideas
+- Beard Shaving Fund Raiser
+- Color Ramp utility for hex values, like, [this](http://www.zonums.com/online/color_ramp/) but better
+- 
+
+
+### Work Ideas
+- Pie charts (diff sizes) energy production types.
+- sankey energy flow/ carbon flow
+- 
