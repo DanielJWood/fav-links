@@ -30,6 +30,10 @@ When the dog bites, when the bee stings when I'm feeling sad, I simply remember 
 ### Ideas
 - Beard Shaving Fund Raiser
 - Color Ramp utility for hex values, like, [this](http://www.zonums.com/online/color_ramp/) but better
+- Ben Revere/Ryan Howard Strike out and salary Twitter bot
+- how likely are you to get a white christmas map around the country through the years
+- interactive DC map of blooming flowers (timeline + map of great places to view) -- crowdsourced
+- US fall foliage map
 
 ### Work Ideas
 - Pie charts (diff sizes) energy production types.
